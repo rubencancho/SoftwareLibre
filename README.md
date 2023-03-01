@@ -21,7 +21,8 @@ Este tipo de licencias, por lo general, no permiten que el software sea modifica
 
 ### Licencia de software de código abierto *permisivas*
 
-Se puede crear una obra derivada sin que esta tenga obligación de protección alguna. Ejemplos: 
+Se puede crear una obra derivada sin que esta tenga obligación de protección alguna. Ejemplos:
+
     * Academic Free License v.1.2.
     * Apache Software License v.1.1
     * Artistic License v.2.0
