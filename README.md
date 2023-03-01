@@ -66,5 +66,6 @@ Entre las licencias de esta categoría están:
     * CDDL.
     * EUPL.
 
+# Referencias
 
-    
+* "Licencia de software". Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software (Accedido: 1 de marzo, 2023). 
