@@ -86,6 +86,11 @@ Ejemplos de software que la utilizan:
 
    * [Ethereum-go](https://github.com/ethereum/go-ethereum)
 
+# Análisis de licencias de documentación libre
+
+## Creative Commons Attribution-Sharealike 4.0 license
+
+
 
 # Referencias
 
