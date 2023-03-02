@@ -76,6 +76,7 @@ La Licencia Pública General de GNU, llamada comúnmente GPL de GNU, se usa para
 Ejemplos de software que la utilizan:
 
    * [GameShell](https://github.com/phyver/GameShell)
+   * [Faceswap](https://github.com/deepfakes/faceswap)
 
 ## LGPL v3.0
 
