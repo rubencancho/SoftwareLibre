@@ -74,7 +74,16 @@ Entre las licencias de esta categoría están:
 La Licencia Pública General de GNU, llamada comúnmente GPL de GNU, se usa para la mayoría de los programas de GNU y para más de la mitad de los paquetes de software libre. La última es la versión 3. 
 
 Ejemplos de software que la utilizan:
+
    * [GameShell](https://github.com/phyver/GameShell)
+
+## LGPL v3.0
+
+La Licencia Pública General Reducida de GNU (LGPL de GNU) se usa para algunas —pero no para todas— las bibliotecas de GNU. La última es la versión 3. 
+
+Ejemplos de software que la utilizan:
+
+   * [Ethereum-go](https://github.com/ethereum/go-ethereum)
 
 
 # Referencias
